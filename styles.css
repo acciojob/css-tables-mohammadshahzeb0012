@@ -4,9 +4,14 @@
     margin: 0;
 
 }
-th,td{
+th{
     border: 1px solid #ccc;
-	    border-radius: 5px;
+    border-radius: 5px;
+    padding: 9px;
+}
+td{
+    border: 1px solid #ccc;
+    border-radius: 5px;
 }
 .odd{
     background-color: #f2f2f2;
